@@ -1,0 +1,16 @@
+.idea
+*.iml
+target/
+dist/
+*.jar
+*.tar.gz
+*.sublime-workspace
+*.sublime-project
+.DS_Store
+/conf
+/log
+/derby.log
+*/conf
+*/log
+*/derby.log
+*/var/druid/metadata.db/*
